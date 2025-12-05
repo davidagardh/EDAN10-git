@@ -2,6 +2,8 @@ package tree;
 
 import tree.MyNode;
 
+// testar status 2
+
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
  *
