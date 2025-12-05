@@ -1,6 +1,7 @@
 package tree;
 
-// Two changes different files
+// 2) Two changes different files no pull before
+// 2) Two changes, same file, different ends, no pull before
 
 /**
  * This is a node in a binary search tree. The node holds an integer value.
@@ -103,10 +104,10 @@ public class MyNode {
    */
   public int calcSize() {
     int cnt = 1;
-    if (left != null) {
+    if(left != null) {
       cnt += left.calcSize();
     }
-    if (right != null) {
+    if(right != null) {
       cnt += right.calcSize();
     }
     return cnt;
