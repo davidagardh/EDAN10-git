@@ -77,5 +77,6 @@ public class MyTree {
     }
     return root.calcSize();
   }
+  // Hobbes change
 }
 
