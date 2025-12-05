@@ -3,6 +3,7 @@ package tree;
 // 2) Two changes different files no pull before
 // 2) Two changes, same file, different ends, no pull before
 // 2) Two changes, same file, different ends, pull before
+// Small fix to move past v1.0
 
 /**
  * This is a node in a binary search tree. The node holds an integer value.
