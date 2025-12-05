@@ -36,6 +36,7 @@ public class MyTree {
    * @return True if node is inserted, false otherwise.
    */
   public boolean insert(MyNode node) {
+    // Random changes not part of v1.0
     if (root == null) {
       root = node;
       return true;
