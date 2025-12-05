@@ -1,7 +1,5 @@
 package tree;
 
-// written on statusdiff branch. 
-
 /**
  * This is a node in a binary search tree. The node holds an integer value.
  *
