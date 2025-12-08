@@ -1,6 +1,7 @@
 package tree;
 
 //rebase commit 1
+//rebase commit 2
 
 /**
  * This is a node in a binary search tree. The node holds an integer value.
