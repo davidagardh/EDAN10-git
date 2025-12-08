@@ -2,7 +2,7 @@ package tree;
 
 import tree.MyNode;
 
-//testar
+//testar att skriva en kommentar
 
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
