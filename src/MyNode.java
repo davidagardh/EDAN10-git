@@ -1,7 +1,7 @@
 // Wayne Babich
 package tree;
 
-// 2) Two changes different files no pull before
+// tredje commit innan rebase
 
 /**
  * This is a node in a binary search tree. The node holds an integer value.
