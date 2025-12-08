@@ -1,6 +1,5 @@
 package tree;
 
-// Very good comment
 import tree.MyNode;
 
 /**
